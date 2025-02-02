@@ -12,9 +12,9 @@
 		"pack": "(cd dist && npm pack --pack-destination ..) && rm -f package.tgz && mv *.tgz package.tgz",
 		"publish": "npm publish package.tgz"
 	},
-	"main": "./index.cjs",
-	"module": "./index.js",
-	"types": "./index.d.ts",
+	"main": "./dist/index.cjs",
+	"module": "./dist/index.js",
+	"types": "./dist/index.d.ts",
 	"sideEffects": false,
 	"publishConfig": {
 		"provenance": true

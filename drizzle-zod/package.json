@@ -71,7 +71,7 @@
 		"@rollup/plugin-typescript": "^11.1.0",
 		"@types/node": "^18.15.10",
 		"cpy": "^10.1.0",
-		"drizzle-orm": "link:../drizzle-orm/dist",
+		"drizzle-orm": "file:../drizzle-orm/dist/src",
 		"rimraf": "^5.0.0",
 		"rollup": "^3.20.7",
 		"vite-tsconfig-paths": "^4.3.2",

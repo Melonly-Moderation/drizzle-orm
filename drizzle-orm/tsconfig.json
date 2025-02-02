@@ -6,8 +6,8 @@
 			"~/*": ["src/*"]
 		},
 		"declaration": true,
-		"outDir": "dist",
-		"noEmit": true
+		"outDir": "./dist",
+		"noEmit": false
 	},
 	"include": ["src", "scripts"]
 }
