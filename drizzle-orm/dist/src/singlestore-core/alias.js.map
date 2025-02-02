@@ -1,0 +1,1 @@
+{"version":3,"file":"alias.js","sourceRoot":"","sources":["../../../src/singlestore-core/alias.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,YAAY,CAAC;AAIpD,MAAM,UAAU,KAAK,CAA0D,wBAAwB;AACtG,KAAa,EACb,KAAa;IAEb,OAAO,IAAI,KAAK,CAAC,KAAK,EAAE,IAAI,sBAAsB,CAAC,KAAK,EAAE,KAAK,CAAC,CAAQ,CAAC;AAC1E,CAAC"}
