@@ -1,0 +1,1 @@
+{"version":3,"file":"primary-key.js","sourceRoot":"","sources":["src/primary-key.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,aAAa,CAAC;AAIzC,MAAM,OAAgB,UAAU;IAKV;IAAuB;IAJ5C,MAAM,CAAU,CAAC,UAAU,CAAC,GAAW,YAAY,CAAC;IAIpD,YAAqB,KAAY,EAAW,OAAoB;QAA3C,UAAK,GAAL,KAAK,CAAO;QAAW,YAAO,GAAP,OAAO,CAAa;IAAG,CAAC"}

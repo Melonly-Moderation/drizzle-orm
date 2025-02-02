@@ -1,0 +1,9 @@
+export declare const anonRole: any;
+export declare const authenticatedRole: any;
+export declare const serviceRole: any;
+export declare const postgresRole: any;
+export declare const supabaseAuthAdminRole: any;
+export declare const authUsers: any;
+export declare const realtimeMessages: any;
+export declare const authUid: any;
+export declare const realtimeTopic: any;

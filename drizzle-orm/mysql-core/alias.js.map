@@ -1,0 +1,1 @@
+{"version":3,"file":"alias.js","sourceRoot":"","sources":["../src/mysql-core/alias.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,YAAY,CAAC;AAKpD,MAAM,UAAU,KAAK,CACpB,KAAa,EACb,KAAa;IAEb,OAAO,IAAI,KAAK,CAAC,KAAK,EAAE,IAAI,sBAAsB,CAAC,KAAK,EAAE,KAAK,CAAC,CAAQ,CAAC;AAC1E,CAAC"}
